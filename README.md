@@ -1,6 +1,6 @@
 <img style="width: 100vw;" src="./Kau%C3%A3%20Santiago%20(3).png">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KpSantiago&show_icons=true&theme=cobalt&bg_color=020202&border_color=fff5&title_color=0df&icon_color=0df&line_height=28) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KpSantiago&layout=donut&bg_color=020202&text_color=fff&border_color=fff5)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KpSantiago&show_icons=true&theme=cobalt&bg_color=020202&border_color=fff5&title_color=0df&icon_color=0df&line_height=28) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KpSantiago&layout=donut&bg_color=020202&text_color=fff&border_color=fff5&title_color=0df)
 
 ## Tecnologias que uso no dia a dia
 
