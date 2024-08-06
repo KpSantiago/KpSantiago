@@ -1,8 +1,8 @@
 # Hi👋, I'm Kauã Santiago
 - I'm a Full-Stack developer who loves programming
 - Focused on Angular / Node.js
-- Currently Inforation Systems student at UFC (Universidade Federal do Ceará)
-- I work with focus on ***the bests goals!***
+- Currently Information Systems student at UFC (Universidade Federal do Ceará)
+- I work with focus on ***the best goals!***
 
 ## Skills
 - Full-stack development
