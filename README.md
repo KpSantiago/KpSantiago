@@ -7,7 +7,7 @@
 - I work with focus on ***the best goals!***
 
 ## Technical Skills
-- ***Technologies/Lenguages:*** Javascript/Typescript, Java, HTML5, CSS3
+- ***Technologies/Lenguages:*** Javascript/Typescript, HTML5, CSS3
 - ***Frameworks:*** Angular, React, Fastify and Express
 - ***Databases:*** MySQL, SQLite and PostgreSQL
 - ***Tools:*** Git and Docker
