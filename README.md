@@ -3,13 +3,13 @@
 ## About me
 - **Bacharelor´s Information System**(persuing) at Federal University at Ceará
 - **Back-end developer** with 2+ years
-- Passionate with **Node.js** 
+- Passionate with **Node.js** and **  C#**
 - I work with focus on ***the best goals!***
 
 ## Technical Skills
-- ***Technologies/Lenguages:*** Javascript/Typescript, HTML5, CSS3
-- ***Frameworks:*** Angular, React, Fastify and Express
-- ***Databases:*** MySQL, SQLite and PostgreSQL
+- ***Technologies/Lenguages:*** Javascript/Typescript, HTML5, CSS3, C#
+- ***Frameworks:*** Angular, React, Fastify, Express, .NET 6+
+- ***Databases:*** MySQL, SQLite, PostgreSQL and SQL Server
 - ***Tools:*** Git and Docker
 - ***Testing***: Supertest, Vitest and TDD(Test-Driven Development)
 
