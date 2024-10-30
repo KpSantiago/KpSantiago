@@ -3,7 +3,7 @@
 ## About me
 - **Bacharelor´s Information System**(persuing) at Federal University at Ceará
 - **Back-end developer** with 2+ years
-- Passionate with **Node.js** and **  C#**
+- Passionate with **Node.js** and **C#**
 - I work with focus on ***the best goals!***
 
 ## Technical Skills
