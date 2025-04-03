@@ -3,15 +3,15 @@
 ## About me
 - **Bacharelor´s Information System**(persuing) at Federal University at Ceará
 - **Back-end developer** with 2+ years
-- Passionate with **Node.js** and **C#**
+- Passionate with **programming**
 - I work with focus on ***the best goals!***
 
 ## Technical Skills
-- ***Technologies/Lenguages:*** Javascript/Typescript, HTML5, CSS3, C#
-- ***Frameworks:*** Angular, React, Fastify, Express, .NET 6+
+- ***Technologies/Lenguages:*** Javascript/Typescript, HTML5, CSS3, C#, Java
+- ***Frameworks:*** Angular, React, Fastify, Express, .NET 6+, Spring Boot
 - ***Databases:*** MySQL, SQLite, PostgreSQL and SQL Server
 - ***Tools:*** Git and Docker
-- ***Testing***: Supertest, Vitest and TDD(Test-Driven Development)
+- ***Testing***: Supertest, Vitest and TDD(Test-Driven Development), XUnit
 
 ## Contact me
 - LinkedIn: [KpSantiago](https://www.linkedin.com/in/kpsantiago)
@@ -19,6 +19,16 @@
 - Telegram: [Kauã Santiago](https://t.me/@KauãSantiago)
 
 ## Professional Experience
+**Back End Developer** - *Interneship* <br/>
+*FASTEF - Remote* <br/>
+*November 2024 - Present*
+- Back-End development at the Dell Lead research center software factory by FASTEF
+- Worked with agile methodology SCRUM and DDD architecture
+- Worked building features, as .NET endpoints with DDD and Clean Arch, SQL requests, unit testing and solving problems
+- .NET 8 | ASP.NET | XUnit | Oracle
+- DDD (Domain Driven Design)
+- GIT | Gitlab
+
 **Full Stack Web Developer** - *Interneship* <br/>
 *Futura Produções - Remote* <br/>
 *Setember 2023 - December 2023*
